@@ -1,4 +1,3 @@
-package training;
 import java.util.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
@@ -29,7 +28,7 @@ class Cab{
 		System.out.println(formatter.format(currentTime));
 		System.out.println("Fast Taxi !");
 		System.out.println("Fast And Secure !");
-        System.out.println("Contat 9796553612 , 9869365911 ")
+        System.out.println("Contat 9796553612 , 9869365911 ");
 		System.out.println("Cab booked Succefully!");
 		System.out.println("Cat ID :"+carId);
 		System.out.println("Distance traveled :"+distance+"km");
